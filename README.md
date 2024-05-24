@@ -1,0 +1,2 @@
+# Trackmania_config_generator_but_better
+better than IamHardliners config generator
