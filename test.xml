@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+    <gameinfos>
+        <game_mode>0</game_mode>
+        <script_name>Trackmania/TM_TimeAttack_Online</script_name>
+    </gameinfos>
+    <mode_script_settings>
+        <setting name="S_TimeLimit" type="integer" value="900"/> <!-- Default : 300 -->
+    </mode_script_settings>
+
+
+    <startindex>0</startindex>
+
+{{maps}}
+</playlist>
